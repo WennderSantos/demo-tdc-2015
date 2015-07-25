@@ -1,0 +1,21 @@
+﻿body {
+    background-color: #dbdbdb;
+}
+
+.navbar.navbar-default {
+    background-color: #000;
+}
+
+.navbar-header {
+    margin-bottom: 13px;
+}
+
+.container {
+    margin-top: 20%;
+}
+
+#foto {
+    height: 60vh;
+    width: 100%;
+    margin-bottom: 10px;
+}
